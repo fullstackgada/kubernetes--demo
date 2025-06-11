@@ -2,7 +2,7 @@
 
 A fun, interactive, and Hindi-based visual demo of **Kubernetes** using the beloved characters **Bhide** and **Jethalal** from *TMKOC*. This educational project explains Kubernetes concepts—like auto-scaling, rolling updates, and self-healing—using relatable metaphors and a playful UI.
 
-🔗 **Live Demo:** [demo-kubernetes.netlify.app](https://demo-kubernetes.netlify.app/)
+🔗 **Live Demo:** [demo-kubernetes](https://demo-kubernetes.netlify.app/)
 
 ---
 
