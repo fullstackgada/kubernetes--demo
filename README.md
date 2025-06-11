@@ -1,4 +1,4 @@
-# 🥒 Kubernetes Demo with Bhide & Jethalal (Hindi)
+# 🥒 Kubernetes Demo with Jethalal & Bhide (Hindi)
 
 A fun, interactive, and Hindi-based visual demo of **Kubernetes** using the beloved characters **Bhide** and **Jethalal** from *TMKOC*. This educational project explains Kubernetes concepts—like auto-scaling, rolling updates, and self-healing—using relatable metaphors and a playful UI.
 
