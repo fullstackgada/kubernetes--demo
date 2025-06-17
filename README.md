@@ -39,20 +39,8 @@ A fun, interactive, and Hindi-based visual demo of **Kubernetes** using the belo
 
 ## 👨‍🎨 Created By
 
-🔗 **Instagram:** [Full Stack Gada](https://www.instagram.com/fullstackgada/?next=%2F/)
+🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/?next=%2F/)
 
 🤝 Follow for more creative tech content!
-
----
-
-## 🧪 How to Run Locally
-
-```bash
-git clone https://github.com/yourusername/kubernetes-bhide-demo.git
-cd kubernetes-bhide-demo
-open Kubernetes/index.html  # or open in your browser
-```
-
----
 
 **Enjoy learning Kubernetes the fun way!**
